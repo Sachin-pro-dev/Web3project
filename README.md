@@ -128,5 +128,3 @@ This project is licensed under the MIT License.
 
 Happy Coding! 🚀
 ```
-
-This version incorporates the Hardhat project information and tasks. Let me know if you'd like additional details or adjustments!
